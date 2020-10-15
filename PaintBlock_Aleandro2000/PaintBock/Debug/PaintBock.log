@@ -1,0 +1,3 @@
+﻿  PaintBock.cpp
+f:\visual studio project\paintbock\paintbock\paintbock.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PaintBock.vcxproj -> F:\Visual Studio Project\PaintBock\Debug\PaintBock.exe
